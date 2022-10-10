@@ -1,0 +1,11 @@
+apt-get update 
+apt-get install git
+git config --global user.name  "nhom5"  
+git config --global user.email  "letoan200801@gmail.com"  
+tạo git 
+git init test
+cd test
+tạo file gedit hello.c
+kiểm tra trạng thái git
+git status
+git commit --help
